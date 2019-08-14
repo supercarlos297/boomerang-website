@@ -1,5 +1,7 @@
 ## BOOMERANG WEBSITE
 
+cyrus kissed max lol
+
 To use git clone the repo, open up the folder and `npm install` then `npm run start:dev` to start the server  
 It will live reload if you change  
 Just commit when you have a change you want to share, we won't do pull requests or anything  
